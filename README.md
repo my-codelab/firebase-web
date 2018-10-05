@@ -1,1 +1,1 @@
-# firebase-web
+# Friendly Chat
